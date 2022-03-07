@@ -1,0 +1,1 @@
+# gradle-plugin-from-github-packages
